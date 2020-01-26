@@ -1,0 +1,12 @@
+# server configuration
+server:
+  host: localhost
+  port: 8000
+
+# database configuration
+database:
+  port: 3306
+  user: root
+  password: nuclei@123
+  database_name : testDb
+  address : 127.0.0.1
